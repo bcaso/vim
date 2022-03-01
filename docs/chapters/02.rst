@@ -7,8 +7,9 @@
    :maxdepth: 2
    :glob:
 
-   ../plugin/vundle.rst
    ../plugin/vim-plug.rst
+   ../plugin/vundle.rst
+   ../plugin/fern.rst
    ../plugin/completor.rst
    ../plugin/nerdtree.rst
    ../plugin/powerline.rst
