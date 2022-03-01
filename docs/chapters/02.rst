@@ -8,6 +8,7 @@
    :glob:
 
    ../plugin/vundle.rst
+   ../plugin/vim-plug.rst
    ../plugin/completor.rst
    ../plugin/nerdtree.rst
    ../plugin/powerline.rst
