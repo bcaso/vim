@@ -16,6 +16,7 @@
    ../basic/search.rst
    ../basic/replace.rst
    ../basic/save.as.rst
+   ../basic/file-jump.rst
    ../basic/regular.expression.rst
    ../basic/map.rst
    ../basic/autocmd.rst
